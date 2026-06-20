@@ -1,8 +1,8 @@
 {
-  "name": "Repo Draco",
-  "pkg": "mihon.extensiones",
-  "url": "https://raw.githubusercontent.com/EnriqueSantosV/mihon-extensiones",
-  "version": 1,
-  "code": 1,
-  "desc": "Repositorio de extensiones"
+  "index": "https://raw.githubusercontent.com/EnriqueSantosV/mihon-extensiones/main/index.min.json",
+  "meta": {
+    "name": "mihon-extensiones",
+    "website": "https://github.com/EnriqueSantosV/mihon-extensiones",
+    "signingKeyFingerprint": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2"
+  }
 }
