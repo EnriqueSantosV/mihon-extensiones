@@ -1,19 +1,40 @@
-{
-  "name": "AnimeBBG",
-  "packageName": "eu.kanade.tachiyomi.extension.es.animebbg",
-  "resources": {
-    "apkUrl": "https://raw.githubusercontent.com/EnriqueSantosV/mihon-extensiones/refs/heads/repo/apk/tachiyomi-es.animebbg-v1.4.1.apk",
-    "iconUrl": "https://raw.githubusercontent.com/EnriqueSantosV/mihon-extensiones/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.animebbg.png"
+[
+  {
+    "name": "AnimeBBG",
+    "packageName": "eu.kanade.tachiyomi.extension.es.animebbg",
+    "resources": {
+      "apkUrl": "https://raw.githubusercontent.com/EnriqueSantosV/mihon-extensiones/refs/heads/repo/apk/tachiyomi-es.animebbg-v1.4.1.apk",
+      "iconUrl": "https://raw.githubusercontent.com/EnriqueSantosV/mihon-extensiones/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.animebbg.png"
+    },
+    "extensionLib": "1.4",
+    "versionCode": 30,
+    "versionName": "1.4.1",
+    "sources": [
+      {
+        "id": "6594879625133134594",
+        "name": "AnimeBBG",
+        "language": "es",
+        "homeUrl": "https://animebbg.net"
+      }
+    ]
   },
-  "extensionLib": "1.4",
-  "versionCode": 30,
-  "versionName": "1.4.1",
-  "sources": [
-    {
-      "id": "6594879625133134594",
-      "name": "AnimeBBG",
-      "language": "es",
-      "homeUrl": "https://animebbg.net"
-    }
-  ]
-}
+  {
+    "name": "RNCALATION",
+    "packageName": "eu.kanade.tachiyomi.extension.es.rncalation",
+    "resources": {
+      "apkUrl": "https://raw.githubusercontent.com/EnriqueSantosV/mihon-extensiones/refs/heads/repo/apk/tachiyomi-es.rncalation-v1.4.1.apk",
+      "iconUrl": "https://raw.githubusercontent.com/EnriqueSantosV/mihon-extensiones/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.rncalation.png"
+    },
+    "extensionLib": "1.4",
+    "versionCode": 30,
+    "versionName": "1.4.1",
+    "sources": [
+      {
+        "id": "rncalation",
+        "name": "RNCALATION",
+        "language": "es",
+        "homeUrl": "https://rncalation.online"
+      }
+    ]
+  }
+]
